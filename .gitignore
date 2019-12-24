@@ -1,0 +1,11 @@
+node_modules/
+source/
+public/
+.deploy*/
+.idea/
+.settings/
+db.json
+*.log
+.DS_Store
+Thumbs.db
+*.iml
